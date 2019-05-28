@@ -149,3 +149,5 @@ cond(no)->sub->io
 | 手机        |   \$12   |   12   |
 | 管线        |    \$1    |  234  |
 
+
+    <i class="icon-weibo"></i>
